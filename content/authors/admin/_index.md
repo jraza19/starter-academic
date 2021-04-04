@@ -11,7 +11,7 @@ role: UBC MDS Candidate 2021. Currently seeking data science positions.
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of British Columbia
-  url: https://www.stanford.edu/
+  url: https://masterdatascience.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests are predictive analytics and machine learning
@@ -69,5 +69,4 @@ highlight_name: false
 ---
 
 Hi! My name is Javairia Raza and I am a 2021 candidate for the Master's in Data Science program at UBC.  I first became interested in data science through my previous job experiences where I learned about the importance of using data to make evidence-based informed decisions. Through this program, I have applied my skills in data analysis, supervised and unsupervised machine learning problems, statistical modeling and data visualization. I am also interested in the intersection between health and machine learning! I am currently seeking entry level positions and internships related to data science. Please feel free to email me if you have any questions. 
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# add the bracket {{ back in when needed for this section < icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
