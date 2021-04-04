@@ -34,8 +34,6 @@ authors:
 tags:
 - Academic
 
-categories:
-- Demo
 ---
 
 Supervised machine learning techniques are a powerful way to look at data. These ML models have a great place in the healthcare world and considering all the data that is collected due to the strict documentation guidelines that the healthcare team have to follow, the possibilities are only limited to when the data can be made available. This blog post will cover different components of the data needed to apply supervised machine learning and the two types of supervised machine learning problems, classification and regression as well as some simple examples of its applications. 
