@@ -20,15 +20,31 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: Dash, Plotly, Seaborn, Altair, GGplot
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Visualization
+- description: Data Wrangling/Analysis, Machine Learning
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: SQL and C++
+  icon: code
+  icon_pack: fab
+  name: Other Languages
+- description: Regression, Classification, Clustering
+  icon: brain
+  icon_pack: far
+  name: Machine Learning
+- description: Github, Sharepoint
+  icon: code-branch
   icon_pack: fas
-  name: Photography
-
+  name: Sharing Tools
+- description: Large-scale regional projects
+  icon: tasks
+  icon_pack: fas
+  name: Project Management
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
