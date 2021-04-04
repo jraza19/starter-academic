@@ -1,6 +1,9 @@
 ---
 title: Publications
 
+# Activate this widget? true/false
+active: false
+
 # View.
 #   1 = List
 #   2 = Compact
