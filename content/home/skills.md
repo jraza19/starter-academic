@@ -33,8 +33,8 @@ feature:
   icon_pack: fab
   name: Other Languages
 - description: Regression, Classification, Clustering
-  icon: brain
-  icon_pack: far
+  icon: code
+  icon_pack: fas
   name: Machine Learning
 - description: Github, Sharepoint
   icon: code-branch
