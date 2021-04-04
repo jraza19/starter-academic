@@ -61,6 +61,8 @@ social:
 #   icon_pack: ai
 #   link: media/resume.pdf
 
+# add the bracket {{ back in when needed for this section < icon name="download" pack="fas" >}} Download my< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -69,4 +71,3 @@ highlight_name: false
 ---
 
 Hi! My name is Javairia Raza and I am a 2021 candidate for the Master's in Data Science program at UBC.  I first became interested in data science through my previous job experiences where I learned about the importance of using data to make evidence-based informed decisions. Through this program, I have applied my skills in data analysis, supervised and unsupervised machine learning problems, statistical modeling and data visualization. I am also interested in the intersection between health and machine learning! I am currently seeking entry level positions and internships related to data science. Please feel free to email me if you have any questions. 
-# add the bracket {{ back in when needed for this section < icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
