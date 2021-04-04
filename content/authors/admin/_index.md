@@ -61,7 +61,7 @@ social:
 #   icon_pack: ai
 #   link: media/resume.pdf
 
-# add the bracket {{ back in when needed for this section < icon name="download" pack="fas" >}} Download my< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}
+# add the bracket {{ back in when needed for this section < icon name="download" pack="fas" >}} Download my< staticref "media/demo_resume.pdf" "newtab" >}}resumé< /staticref >}}
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
