@@ -1,5 +1,5 @@
 ---
-title: Patient Safety Learning Summaries – A Restorative Justice Approach”
+title: Patient Safety Learning Summaries – A Restorative Justice Approach
 
 event: BC Quality Forum 2020
 event_url: https://bcpsqc.ca/event/quality-forum-2020/
