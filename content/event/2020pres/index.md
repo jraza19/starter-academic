@@ -1,8 +1,8 @@
 ---
-title: Safety Passport - Promoting Patient Safety for Health Care Providers
+title: Patient Safety Learning Summaries – A Restorative Justice Approach”
 
-event: BC Quality Forum 2019
-event_url: https://patientvoicesbc.ca/2019/03/06/quality-forum-2019-presentations-are-available-online-now/
+event: BC Quality Forum 2020
+event_url: https://bcpsqc.ca/event/quality-forum-2020/
 
 location: ""
 address:
@@ -12,12 +12,12 @@ address:
   postcode: ''
   country: ""
 
-summary: This safety passport promotes patient safety for health care providers through 2D augmented reality graphics!
+summary: Patient Safety Learning Summaries are a succinct tool designed to share learnings from  patient safety issues. 
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-02-06"
+date: "2020-02-27"
 date_end: ""
 all_day: false
 
@@ -31,14 +31,14 @@ tags: []
 featured: false
 
 image: 
-  caption: 'Image credit: [**BCQualityForum**](https://patientvoicesbc.ca/2019/03/06/quality-forum-2019-presentations-are-available-online-now/)'
+  caption: 'Image credit: [**BCQualityForum**](https://bcpsqc.ca/event/quality-forum-2020/)'
   focal_point: ''
 
 links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/1CQg8MmYvSA?t=2512"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
