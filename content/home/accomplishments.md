@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
-  date_end: "2021-03-14"
+  date_end:
   date_start: "2021-03-12"
   description: Using web scraping and building a dashboard to leverage public available data
   organization: ESDC Hackathon 2021
@@ -32,9 +32,9 @@ item:
   title: Top 6 finalist 
   url:
 - certificate_url: 
-  date_end: "2018-10-01"
+  date_end: 
   date_start: "2018-10-01"
-  description: The VP of Patient Experience presented this award for team's work for a patient safety campaign
+  description: The VP of Patient Experience presented this award for my team's work for a patient safety campaign
   organization: Fraser Health Authority
   organization_url: 
   title: Innovation Award 
@@ -45,6 +45,6 @@ item:
   description: ""
   organization: University of British Columbia
   organization_url: 
-  title: Recipient of the Master in Data Science Domestic Scholarship
+  title: Recipient of the Master's in Data Science Domestic Scholarship
   url: ""
 ---
