@@ -2,7 +2,7 @@
 title: Obesity Explorer Dashboard 
 summary: Team project on building a dashboard on Dash that explores global obesity trends and rates 
 tags:
-- data Visualization
+- Data Visualization
 date: "2021-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
