@@ -40,7 +40,7 @@ feature:
   icon: code-branch
   icon_pack: fas
   name: Sharing Tools
-- description: Large-scale regional projects
+- description: Large-scale regional projects, Microsoft Office Suite
   icon: tasks
   icon_pack: fas
   name: Project Management

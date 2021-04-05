@@ -17,7 +17,7 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-02-01"
+date: "2019-02-06"
 date_end: ""
 all_day: false
 
@@ -30,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+image: false
+  caption: ''
+  focal_point: ''
 
 links:
 url_code: ""
@@ -54,4 +54,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
 - []
+
 ---
