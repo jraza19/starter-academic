@@ -1,12 +1,12 @@
 ---
-title: Readmission Status Predictor for Diabetic Patients 
-summary: Team class project on building a machine learning model to predict if a diabetic patient is likely to readmit based on their previous stay in the hospital 
+title: Obesity Explorer Dashboard 
+summary: Team project on building a dashboard on Dash that explores global obesity trends and rates 
 tags:
-- Machine Learning
-date: "2020-12-01T00:00:00Z"
+- data Visualization
+date: "2021-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/UBC-MDS/group29"
+external_link: "https://github.com/UBC-MDS/obesity-explorer-R"
 
 image:
   caption: ""
