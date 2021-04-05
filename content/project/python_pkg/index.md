@@ -1,6 +1,7 @@
 ---
-title: MDS Grade Tracker 
+title: Grade Tracker Python Package
 summary: Team project on a python package that allows MDS instructors to track and review grades 
+tags:
 - Python
 date: "2021-03-01T00:00:00Z"
 
