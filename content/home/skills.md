@@ -30,10 +30,10 @@ feature:
   name: Python
 - description: SQL and C++
   icon: code
-  icon_pack: fab
+  icon_pack: fas
   name: Other Languages
 - description: Regression, Classification, Clustering
-  icon: code
+  icon: laptop-code
   icon_pack: fas
   name: Machine Learning
 - description: Github, Sharepoint
