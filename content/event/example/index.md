@@ -30,7 +30,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image: false
+image: 'Image credit: [**Quality Forum 2019*]( https://patientvoicesbc.ca/2019/03/06/quality-forum-2019-presentations-are-available-online-now/)'
   caption: ''
   focal_point: ''
 
