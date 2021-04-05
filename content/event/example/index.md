@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image: 
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**BCQualityForum**](https://patientvoicesbc.ca/2019/03/06/quality-forum-2019-presentations-are-available-online-now/)'
   focal_point: ''
 
 links:
