@@ -2,7 +2,7 @@
 title: MDS Grade Tracker 
 summary: Team project on a python package that allows MDS instructors to track and review grades 
 - Python
-date: "2021-01-01T00:00:00Z"
+date: "2021-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/UBC-MDS/pygtracker"
